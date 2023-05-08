@@ -1,0 +1,11 @@
+                                GIT/GITHUB
+
+Conjunto de comandos básicos para navegar do terminal:
+
+.cd- Mudar de pastas 
+.dir- Listar conteúdos da pasta 
+.mkdir- Criar diretorias 
+.del/mrdir- Deletar
+.cd- Voltar para a pasts anterior 
+
+-SHA1 = É uma função de disperção criptográfica projetada pela agência de segurança nacional dos EUA. É um padrão federal de processamento de informação dos EUA.
